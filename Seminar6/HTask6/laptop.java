@@ -1,4 +1,4 @@
-package Seminar5.HTask5;
+package Seminar6.HTask6;
 
 public class laptop {
     int id;
